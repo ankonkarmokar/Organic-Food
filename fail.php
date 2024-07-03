@@ -1,0 +1,1 @@
+<p>Payment fail</p>
